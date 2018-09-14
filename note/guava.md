@@ -1,4 +1,3 @@
-Preconditions
 
 ## 一. 集合
 
